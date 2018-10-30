@@ -4,8 +4,6 @@ Our benchmark is the result of a qualitative work based on the reproduction of r
 
 The benchmark includes apps affected by resource leak, their source code and apk, a reference to the bug reports and commits about the problem, and a test case to reproduce the leak automatically. We exemplify below how to use the benchmark.
 
-This benchmark has been submitted to the journal of Software: Practice and Experience .
-
 Please feel free to [contact Oliviero Riganelli](http://www.lta.disco.unimib.it/riganelli/), if you have any questions.
 
 ## Contributors
@@ -16,7 +14,7 @@ Please feel free to [contact Oliviero Riganelli](http://www.lta.disco.unimib.it/
 
 ## Publication
 
-O. Riganelli, D. Micucci, and L. Mariani, "From Source Code to Test Cases: A Comprehensive Benchmark for Resource Leak Detection in Android Apps", In Software-Practice and Experience (To Appear) 
+O. Riganelli, D. Micucci, and L. Mariani, "From Source Code to Test Cases: A Comprehensive Benchmark for Resource Leak Detection in Android Apps", In Software: Practice and Experience (To Appear).
 
 ## Requirements
 1. If not already present, install:
