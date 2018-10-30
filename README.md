@@ -1,4 +1,4 @@
-# AppLeak: A Benchmark for Resource Leak Detection in Android Apps
+# From Source Code to Test Cases: A Comprehensive Benchmark for Resource Leak Detection in Android Apps
 
 Our benchmark is the result of a qualitative work based on the reproduction of resource leaks already reported in other datasets and papers. Our work focused on the compilation, execution and reproduction of failures. This significant manual effort resulted in the definition of a benchmark that others can easily use to reproduce faillures and to study static and dynamic analysis techniques for resource leak discovery, debugging and fixing.
 
