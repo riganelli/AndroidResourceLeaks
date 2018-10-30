@@ -4,6 +4,8 @@ Our benchmark is the result of a qualitative work based on the reproduction of r
 
 The benchmark includes apps affected by resource leak, their source code and apk, a reference to the bug reports and commits about the problem, and a test case to reproduce the leak automatically. We exemplify below how to use the benchmark.
 
+In order to study the use of the benchmark, we ask you to provide some information at [https://goo.gl/forms/JZWWaeOK5TMbkacA2](https://goo.gl/forms/JZWWaeOK5TMbkacA2). 
+
 Please feel free to [contact Oliviero Riganelli](http://www.lta.disco.unimib.it/riganelli/), if you have any questions.
 
 ## Contributors
