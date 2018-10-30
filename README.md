@@ -14,6 +14,9 @@ Please feel free to [contact Oliviero Riganelli](http://www.lta.disco.unimib.it/
 * [Daniela Micucci](http://www.sal.disco.unimib.it/people/daniela-micucci/)
 * [Leonardo Mariani](http://www.lta.disco.unimib.it/lta/personalPages/leonardoMariani/leonardoMariani.php)
 
+## Publication
+
+O. Riganelli, D. Micucci, and L. Mariani, "From Source Code to Test Cases: A Comprehensive Benchmark for Resource Leak Detection in Android Apps", In Software-Practice and Experience (To Appear) 
 
 ## Requirements
 1. If not already present, install:
