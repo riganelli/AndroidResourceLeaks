@@ -14,9 +14,13 @@ Please feel free to [contact Oliviero Riganelli](http://www.lta.disco.unimib.it/
 * [Daniela Micucci](http://www.sal.disco.unimib.it/people/daniela-micucci/)
 * [Leonardo Mariani](http://www.lta.disco.unimib.it/lta/personalPages/leonardoMariani/leonardoMariani.php)
 
-## Publication
+## Publications
 
-Riganelli O, Micucci D, Mariani L. From source code to test cases: A comprehensive benchmark for resource leak detection in Android apps. In Software: Practice and Experience 2018;1–9. https://doi.org/10.1002/spe.2672
+O. Riganelli, D. Micucci, L. Mariani, "From source code to test cases: A comprehensive benchmark for resource leak detection in Android apps" In Software: Practice and Experience 2018;1–9. https://doi.org/10.1002/spe.2672
+
+O. Riganelli, D. Micucci and L. Mariani, "Policy Enforcement with Proactive Libraries" In Proc. of 12th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), Buenos Aires, Argentina, 2017, pp. 182-192. https://doi.org/10.1109/SEAMS.2017.9
+
+O. Riganelli, D. Micucci, L. Mariani, Y. Falcone, "Verifying policy enforcers" In Proc. of of the 17th International Conference on Runtime Verification (RV), Seattle, Washington, USA, 2017, pp. 241-258, https://doi.org/10.1007/978-3-319-67531-2_15
 
 ## Related Datasets
 
