@@ -18,6 +18,10 @@ Please feel free to [contact Oliviero Riganelli](http://www.lta.disco.unimib.it/
 
 Riganelli O, Micucci D, Mariani L. From source code to test cases: A comprehensive benchmark for resource leak detection in Android apps. In Software: Practice and Experience 2018;1–9. https://doi.org/10.1002/spe.2672
 
+## Related Datasets
+
+[Benchmark for Data Loss errors in Android Apps](https://gitlab.com/learnERC/DataLossRepository)
+
 ## Requirements
 1. If not already present, install:
 	* [Andorid SDK](https://developer.android.com/) 
